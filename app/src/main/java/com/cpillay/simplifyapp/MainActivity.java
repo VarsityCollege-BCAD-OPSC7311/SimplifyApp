@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
 
         firebaseAuth = FirebaseAuth.getInstance();
         FirebaseUser user = firebaseAuth.getCurrentUser();
-
+        //if user has logged in before it will not require them to login again
         if (user != null) {
             finish();
             startActivity(new Intent(MainActivity.this, Log.class));
