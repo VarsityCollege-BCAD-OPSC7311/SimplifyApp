@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "464324517874",
+    "firebase_url": "https://simplifyapp-c2a96.firebaseio.com",
+    "project_id": "simplifyapp-c2a96",
+    "storage_bucket": "simplifyapp-c2a96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464324517874:android:42c89f369d7d74a970d56b",
+        "android_client_info": {
+          "package_name": "com.cpillay.simplifyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464324517874-m9o6amc2n578l0veq21foj3rccap0ph9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdXjsRfiywHYjn9_VMDIae2tSM7_va6w4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464324517874-m9o6amc2n578l0veq21foj3rccap0ph9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

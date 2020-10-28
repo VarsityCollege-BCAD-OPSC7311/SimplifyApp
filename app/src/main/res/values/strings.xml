@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SimplifyApp</string>
+    <string name="title_activity_my_day">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="select_gender">Select Gender:</string>
+    <string name="height">Height:</string>
+    <string name="system">System:</string>
+    <string name="next">Next</string>
+    <string name="weight">Weight:</string>
+    <string name="age">Age:</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Log">log</string>
+    <string name="Goals">goals</string>
+    <string name="Profile">profile</string>
+    <string name="Day">day</string>
+
+</resources>

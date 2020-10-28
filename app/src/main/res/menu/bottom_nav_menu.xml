@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+    android:id="@+id/miMyDay"
+    android:title="My Day"
+    android:icon="@drawable/ic_baseline_wb_sunny_24"/>
+
+    <item
+        android:id="@+id/miLog"
+        android:title="Log"
+        android:icon="@drawable/ic_outline_add_to_photos_24"/>
+    <item
+        android:id="@+id/miGoals"
+        android:title="Goals"
+        android:icon="@drawable/ic_sharp_done_outline_24"/>
+    <item
+        android:id="@+id/miProfile"
+        android:title="Profile"
+        android:icon="@drawable/ic_baseline_person_outline_24"/>
+</menu>
